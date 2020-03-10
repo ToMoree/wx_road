@@ -1,4 +1,14 @@
 .container{
     column-width: 250px;
-    column-gap: 5px;
+    column-gap: 5px; 
+}
+.container div{
+    width: 250px;
+    margin: 5px;
+}
+.container p{
+    text-align: center;
+}
+.container img{
+    width: 100%;
 }
